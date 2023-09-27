@@ -1,0 +1,20 @@
+3 1 2
+Chia-hao
+30
+1000
+Chih-ming
+50
+3000
+Chun-chieh
+10
+5000
+Chien-hung
+10
+1500
+30
+Chih-hao
+60
+2000
+Chih-wei
+20
+3500
